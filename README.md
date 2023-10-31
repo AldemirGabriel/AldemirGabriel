@@ -1,5 +1,6 @@
 # REPOSITORIO-ALDEMIR
 ***Ola sou Aldemir***. 
+
 Estou estudando pela plataforma [alura](https://www.alura.com.br/)
 
 
