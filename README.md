@@ -1,7 +1,6 @@
 # REPOSITORIO-ALDEMIR
 ***Ola sou Aldemir***. 
-
-Gosto de jogos, videos e musica
+Estou estudando pela plataforma [alura](https://www.alura.com.br/)
 
 
 
